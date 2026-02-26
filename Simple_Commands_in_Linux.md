@@ -24,13 +24,13 @@
 </p>
 
 ### File type
-- -     # Regular file
-- d     # Directory
-- l     # Symbolic link
-- c     # Character file
-- b     # Block file
-- s     # Socket file
-- p     # Named pipe
+- "-"     # Regular file
+- "d"     # Directory
+- "l"     # Symbolic link
+- "c"     # Character file
+- "b"     # Block file
+- "s"     # Socket file
+- "p"     # Named pipe
 
 - inode is an entry in the filesystem table about the location in storage media and it'll be unique for every file. If multiple files have same inode then those are hard link
 
