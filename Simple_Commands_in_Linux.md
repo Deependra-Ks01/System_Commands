@@ -41,3 +41,8 @@
 <p align="center">
   <img src="Assets/permission_string.png" width="900" alt="Typical output of ls -l" />
 </p>
+
+- To create directory
+    ```bash
+    mkdir dir_name
+    ```
