@@ -45,3 +45,8 @@ user@machine:~$ ls -a
 - **Command:** `ls`
 - **Option (Flag):** `-a`  
   > Lists all files, including hidden files (those starting with `.`)
+
+- list the file in long format
+    ```bash
+    ls -l
+    ```
