@@ -20,7 +20,9 @@
     ```
 
 
-For IIT Madras
+- For IIT Madras
     Paste the public key to the system command couse site
     // after that we can login with IITM VM
-    cmd: ssh 22f3002361@ds.study.iitm.ac.in
+    ```bash 
+    ssh studentemmail_id
+    ```
