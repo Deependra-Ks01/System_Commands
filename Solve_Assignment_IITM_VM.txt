@@ -1,5 +1,5 @@
 - Read the README.md
-    cmd: ('''cat README.md''') (to open file)
-         ('''batcat README.md''') (colored)
+    cmd: ```cat README.md``` (to open file)
+         ```batcat README.md``` (colored)
 - Read the Questions from /opt/se2001
 - Write the solution inside ~/se2001
