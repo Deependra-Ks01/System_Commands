@@ -24,20 +24,20 @@
 </p>
 
 ### File type
-- "-"     # Regular file
-- "d"     # Directory
-- "l"     # Symbolic link
-- "c"     # Character file
-- "b"     # Block file
-- "s"     # Socket file
-- "p"     # Named pipe
+- "-"      : Regular file
+- "d"      : Directory
+- "l"      : Symbolic link
+- "c"      : Character file
+- "b"      : Block file
+- "s"      : Socket file
+- "p"      : Named pipe
 
 - inode is an entry in the filesystem table about the location in storage media and it'll be unique for every file. If multiple files have same inode then those are hard link
 
 ### Permission string 
-- r     # read
-- w     # write
-- x     # execurable or if it's directory so it can be changed
+- r     : read
+- w     : write
+- x     : execurable or if it's directory so it can be changed
 <p align="center">
   <img src="Assets/permission_string.png" width="900" alt="Typical output of ls -l" />
 </p>
