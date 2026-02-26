@@ -1,5 +1,3 @@
-## Instructions
-
 - Read the `README.md`  
   ```bash
   cat README.md        # to open file
