@@ -28,11 +28,11 @@
     ```
 - to see the manual pages for help
     ```bash
-    man     #add argument with man e.g., man ls
+    man     #add argument with man e.g., man ls and to come out press q
     ```
 - to move to home directory
     ```bash
-    cd
+    cd      #or cd ~
     ```
 - to move to same directory
     ```bash
@@ -42,6 +42,11 @@
     ```bash
     cd ..
     ```
+- to move to privious working directory
+    ```bash
+    cd -
+    ```
+
 - /bin      # Essential command binaries
 - /boot     # Static files of the boot loader
 - /dev      # Device files
