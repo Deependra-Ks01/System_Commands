@@ -1,6 +1,8 @@
--Create public-private key pair using ssh-keygen
-    cmd: ssh-keygen (it will create ed key)
-         ssh-keygen -t rsa (With type rsa)
+- Create public-private key pair using ssh-keygen
+    ```bash
+    ssh-keygen      # it will create ed key
+    ssh-keygen -t rsa       # With type rsa
+    ```
 
     // it will ask for the address
          by default it will be 
@@ -8,10 +10,14 @@
 
     // it will ask for passphrase
 
-    cmd: cat ~/.ssh/id_rsa.pub (to see the public key)
+    ```bash
+    cat ~/.ssh/id_rsa.pub # to see the public key
+    ```
 
--copy the public key to the server
-    cmd: cat ~/.ssh/id_rsa.pub | xsel -ib (Will copy the public key to the clipboard)
+- copy the public key to the server
+    ```bash
+    cat ~/.ssh/id_rsa.pub | xsel -ib # Will copy the public key to the clipboard
+    ```
 
 
 For IIT Madras
