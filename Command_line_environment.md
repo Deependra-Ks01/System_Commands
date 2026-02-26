@@ -32,4 +32,4 @@
  path: ~  #where command to be executed
  dollar: $  #to signal that from then onwards start typing
  command: ls
- option: -a
+ option: -a #list all the file which also have .(dot) in front of that
