@@ -22,3 +22,14 @@
     ```bash
     exit        #or ctrl+D
     ```
+- anatomy of command
+ e.g., user@machine:~$ ls -a
+ command prompt: user@machine:~$
+ username: user
+ At symbol: @
+ hostname: machine
+ colon: :
+ path: ~  #where command to be executed
+ dollar: $  #to signal that from then onwards start typing
+ command: ls
+ option: -a
