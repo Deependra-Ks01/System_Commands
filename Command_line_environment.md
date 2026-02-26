@@ -22,6 +22,15 @@
     ```bash
     exit        #or ctrl+D
     ```
+- list the file in long format
+    ```bash
+    ls -l
+    ```
+- to see the manual pages for help
+    ```bash
+    man     #add argument with man e.g., man ls
+    ```
+
 ## Anatomy of a Linux Command
 
 ### Example:
@@ -46,7 +55,3 @@ user@machine:~$ ls -a
 - **Option (Flag):** `-a`  
   > Lists all files, including hidden files (those starting with `.`)
 
-- list the file in long format
-    ```bash
-    ls -l
-    ```
