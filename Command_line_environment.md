@@ -22,14 +22,26 @@
     ```bash
     exit        #or ctrl+D
     ```
-- anatomy of command
- e.g., user@machine:~$ ls -a
- command prompt: user@machine:~$
- username: user
- At symbol: @
- hostname: machine
- colon: :
- path: ~  #where command to be executed
- dollar: $  #to signal that from then onwards start typing
- command: ls
- option: -a #list all the file which also have .(dot) in front of that
+## Anatomy of a Linux Command
+
+### Example:
+```bash
+user@machine:~$ ls -a
+```
+
+### Breakdown:
+
+- **Command Prompt:** `user@machine:~$`
+- **Username:** `user`
+- **At Symbol:** `@`
+- **Hostname:** `machine`
+- **Colon:** `:`
+- **Path:** `~`  
+  > Indicates the directory where the command will be executed (here, Home directory)
+
+- **Dollar Sign:** `$`  
+  > Indicates a normal user. It signals that you can start typing a command.
+
+- **Command:** `ls`
+- **Option (Flag):** `-a`  
+  > Lists all files, including hidden files (those starting with `.`)
