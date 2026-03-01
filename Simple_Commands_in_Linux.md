@@ -120,7 +120,7 @@
     ```bash
     tail
     ```
-- To see the number of lines are there in the file
+- Print newline, word and byte counts for each file
     ```bash
     wc
     ```
@@ -128,4 +128,31 @@
     ```bash
     which
     ```
+- To see the brif description the command
+    ```bash
+    whatis
+    ```
+- To search the commands with key word in cmd description
+    ```bash
+    apropos
+    ```
+- We can also search the key world using man cmd
+    ```bash
+    mam -k keyword
+- To see the commands 
+    ```bash
+    help
+    ```
+    ```bash
+    info
+    ```
+- To see the type
+    ```bash
+    type
+    ```
+- To give nickname to commands
+    ```bash
+    alias
+    ```
+
 
