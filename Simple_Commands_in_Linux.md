@@ -94,3 +94,9 @@
     ```bash
     file        # Add filename aftet the command
     ```
+- To list the file of specific directory
+    ```bash
+    ls -l level1
+    ls -ld level1       # of current working dir from parent dir
+    ls -ldi level1      # of current working dir from parent dir in inode number
+    ```
