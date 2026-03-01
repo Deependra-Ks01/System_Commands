@@ -100,3 +100,32 @@
     ls -ld level1       # of current working dir from parent dir
     ls -ldi level1      # of current working dir from parent dir in inode number
     ```
+- To see the content of file page by page
+    ```bash
+    less        #for short file and require exit command to exit the file
+    ```
+- To cancatenate the content of file onto the screen
+    ```bash
+    cat     #dump the content of the file onto the screen and exits atomatically
+    ```
+- To see the content of the file page by page similar to less command
+    ```bash
+    more
+    ```
+- To see the first n starting line of the file
+    ```bash 
+    head
+    ```
+- To see the first n ending lines of the file
+    ```bash
+    tail
+    ```
+- To see the number of lines are there in the file
+    ```bash
+    wc
+    ```
+- To see the pathname of command loacated at
+    ```bash
+    which
+    ```
+
