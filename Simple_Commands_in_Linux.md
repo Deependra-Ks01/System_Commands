@@ -167,5 +167,24 @@
     ```bash
     rmdir
     ```
+- To remove directory forcefully if it has more sub directories or files inside
+    ```bash
+    rm -r mydir         # -r : recursion
+    ```
+- Creating Hard link (with same inode number) and Symbolic link (different inode number)
+    ```bash
+    ln file1 file2          
+    ```
+    ```bash
+    ln -s file1 file2           # file2 -> file
+    ```
+- To see the file size
+    ```bash
+    stat filename
+    ```
+    ```bash
+    du filename         # du -h filename. use -h option for human readable
+    ```
+    
 
 
