@@ -185,6 +185,8 @@
     ```bash
     du filename         # du -h filename. use -h option for human readable
     ```
-    
+- /sys and /proc are repostories on root directory which gives information about the know about the hardware connected or being used.
+ 
+
 
 
