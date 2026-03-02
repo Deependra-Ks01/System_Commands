@@ -154,5 +154,18 @@
     ```bash
     alias
     ```
+- To remove the nickname to command
+    ```bash
+    unalias
+    ```
+- Options are enhanced feature of commands and arguments are specific name of file or directory that we are giving on command line so that command would act on those respective files.
+- We can have multiple arguments with single command
+    ```bash
+    touch file1 file2 file3
+    ```
+- To remove the directory
+    ```bash
+    rmdir
+    ```
 
 
