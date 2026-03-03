@@ -15,19 +15,19 @@
 
 - Ed editor is single line-by-line file editor. Ex is modified version of ed editor. It comes pre-installed with linux OS.
 
-### nano editor
+# nano editor
 - Overview of nano's shortcuts        
 
 - The editor's keystrokes and their functions             
 
 
-# File handling
+## File handling
 - Ctrl+S   	Save current file
 - Ctrl+O	Offer to write file ("Save as")
 - Ctrl+R	Insert a file into current one
 - Ctrl+X	Close buffer, exit from nano
 
-# Editing
+## Editing
 - Ctrl+K   	Cut current line into cutbuffer
 - Alt+6	Copy current line into cutbuffer
 - Ctrl+U	Paste contents of cutbuffer
@@ -36,21 +36,21 @@
 - Alt+U	Undo last action
 - Alt+E	Redo last undone action
 
-# Search and replace
+## Search and replace
 - Ctrl+B   	Start backward search
 - Ctrl+F	Start forward search
 - Alt+B	Find next occurrence backward
 - Alt+F	Find next occurrence forward
 - Alt+R	Start a replacing session
 
-# Deletion
+## Deletion
 - Ctrl+H	Delete character before cursor      
 - Ctrl+D	Delete character under cursor
 - Alt+Bsp	Delete word to the left
 - Ctrl+Del   	Delete word to the right
 - Alt+Del	Delete current line
 
-# Operations
+## Operations
 - Ctrl+T   	Execute some command
 - Ctrl+T Ctrl+S	Run a spell check
 - Ctrl+T Ctrl+Y	Run a syntax check
@@ -63,7 +63,7 @@
 - Alt+:	Start/stop recording of macro      
 - Alt+;	Replay macro
 
-# Moving around
+## Moving around
 - ←	One character backward
 - →	One character forward
 - Ctrl+←	One word backward
@@ -81,7 +81,7 @@
 - Alt+\	To top of buffer
 - Alt+/	To end of buffer
 
-# Special movement
+## Special movement
 - Alt+G     	Go to specified line
 - Alt+]	Go to complementary bracket
 - Alt+↑	Scroll viewport up
@@ -89,12 +89,12 @@
 - Alt+<	Switch to preceding buffer
 - Alt+>	Switch to succeeding buffer
 
-# Information
+## Information
 - Ctrl+C   	Report cursor position
 - Alt+D	Report line/word/character counts
 - Ctrl+G	Display help text
 
-# Various
+## Various
 - Alt+A     	Set or unset the mark
 - Alt+V	Enter next keystroke verbatim
 - Alt+C	Turn constant position info on/off
