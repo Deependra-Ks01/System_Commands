@@ -8,7 +8,6 @@
   <img src="Assets/ed1.png" width="900" alt="Typical output of ls -l" />
 </p>
 
-### Ed editor
 <p align="center">
   <img src="Assets/ed2.png" width="900" alt="Typical output of ls -l" />
 </p>
