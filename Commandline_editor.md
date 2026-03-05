@@ -104,5 +104,3 @@
 - Alt+X	Hide/unhide the help lines
 - Alt+Z	Hide/unhide the info bars
 - Ctrl+L	Refresh the screen
-
--
