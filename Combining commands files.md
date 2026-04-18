@@ -24,3 +24,25 @@ Executing multiple commands
     ```bash
     (echo $BASH_SUBSHELL)
     ```
+File pointers
+- stdin
+- stdout
+- stderr
+
+- to redirect the output of command to file 
+    ```bash
+    command > file1
+    ```
+
+- to redirect the output of the keyborad intput to the file1
+    ```bash
+    cat > file1
+    ```
+
+- to append the redirect the ouput of command to file
+    ```bash
+    command >> file1
+    ```
+
+
+
