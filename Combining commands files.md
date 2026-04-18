@@ -29,7 +29,7 @@ File pointers
 - stdout
 - stderr
 
-- to redirect the output of command to file 
+- to redirect the output of command to file (overide the file)
     ```bash
     command > file1
     ```
@@ -39,7 +39,7 @@ File pointers
     cat > file1
     ```
 
-- to append the redirect the ouput of command to file
+- to append the redirect the ouput of command to  file
     ```bash
     command >> file1
     ```
