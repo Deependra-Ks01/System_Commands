@@ -55,6 +55,7 @@ File pointers
     ```
 
 Currently. I'm studying for the end sem of the my IIIT Dharwad exams. And today is the exam of Blockchain Techonolgy. 
+In the blockchain I've studied for the bitcoin, ethereum and other less popular blockchin. Done workshop of NFT and CBDC.
 
 
 
