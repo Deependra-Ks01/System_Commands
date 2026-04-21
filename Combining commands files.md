@@ -44,5 +44,18 @@ File pointers
     command >> file1
     ```
 
+- to redirect the error message to file of command
+    ```bash
+    command 2> file1
+    ```
+
+- to redirect the error and output of command to different files
+    ```bash
+    command > file1 2> file2
+    ```
+
+
+
+
 
 
