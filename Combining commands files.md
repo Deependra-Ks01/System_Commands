@@ -54,7 +54,7 @@ File pointers
     command > file1 2> file2
     ```
 
-
+Currently. I'm studying for the end sem of the my IIIT Dharwad exams. And today is the exam of Blockchain Techonolgy. 
 
 
 
