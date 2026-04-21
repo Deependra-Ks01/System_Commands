@@ -54,11 +54,5 @@ File pointers
     command > file1 2> file2
     ```
 
-Currently. I'm studying for the end sem of the my IIIT Dharwad exams. And today is the exam of Blockchain Techonolgy. 
-In the blockchain I've studied for the bitcoin, ethereum and other less popular blockchin. Done workshop of NFT and CBDC.
-Build many smart contracts for learning as well as for the project.
-My project was on De_Passport, in which I've decentralized the passport identy. Used local ganache and truffle for smart contract deployment. 
-I've lead NFT workshop. In which I've taught the audience about the Non-fungible tokens from creating wallet, creating digital art, minting the NFT and transecting the NFT in OpenSea plateform.
-
 
 
